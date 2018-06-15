@@ -1,0 +1,41 @@
+header {
+	float: left;
+	width: 270px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 10%;
+	margin-right: 25px;
+	background: #4aaaa5;
+	text-align: center;
+	color: #ffffff;
+}
+
+.navBar {
+	margin-left: 870px;
+
+}
+
+.naBar, li {
+	float: left;
+	list-style: none;
+	padding: 20px 20px;
+	/*margin-right: 100px;*/
+}
+
+.mainContent {
+	width: 650px;
+	margin: 10px;
+	margin-right: 0px;
+	display: block;
+	margin-left: 15%;
+
+}
+
+#paraOne {
+	width: 400px;
+}
+
+.sideBar {
+	width: 270px;
+	float: right;
+}
